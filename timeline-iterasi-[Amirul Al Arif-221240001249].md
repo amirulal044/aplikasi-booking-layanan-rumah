@@ -9,7 +9,7 @@ Timeline ini berfungsi sebagai peta jalan strategis untuk pengembangan aplikasi 
 **Tujuan:** Membangun dan meluncurkan versi paling dasar dari aplikasi yang berfungsi penuh. Versi ini akan digunakan oleh pengguna awal untuk memvalidasi ide bisnis inti dan mengumpulkan umpan balik krusial.
 
 - [ ] **Bulan 1: Perencanaan & Desain MVP**  
-    - [ ] **Minggu 1:** Finalisasi dokumen Software Requirements Specification (SRS) untuk MVP. Memulai *setup* proyek Flutter dan inisialisasi Appwrite sebagai *backend*.  
+    - [x] **Minggu 1:** Finalisasi dokumen Software Requirements Specification (SRS) untuk MVP. Memulai *setup* proyek Flutter dan inisialisasi Appwrite sebagai *backend*.  
     - [ ] **Minggu 2:** Mendesain User Interface (UI) dan User Experience (UX) untuk fitur-fitur inti MVP. Ini mencakup pembuatan *wireframe* dan *mockup* dasar.  
     - [ ] **Minggu 3-4:** Mengatur struktur database di Appwrite. Ini termasuk membuat koleksi `users` dan `bookings` dengan konfigurasi *permissions* yang tepat. Mengimplementasikan modul autentikasi (pendaftaran, *login*, dan *logout*).
 
